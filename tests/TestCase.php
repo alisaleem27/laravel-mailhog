@@ -2,8 +2,8 @@
 
 namespace AliSaleem\MailHog\Tests;
 
-use Orchestra\Testbench\TestCase as Orchestra;
 use AliSaleem\MailHog\MailHogServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
