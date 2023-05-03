@@ -53,7 +53,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "MailHogServ"
+                "AliSaleem\\MailHog\\MailHogServiceProvider"
             ],
             "aliases": {
                 "Mailhog": "AliSaleem\\Mailhog\\Facades\\Mailhog"
